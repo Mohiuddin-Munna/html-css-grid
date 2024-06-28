@@ -1,0 +1,46 @@
+/* Basick changes */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.grid {
+    display: flex;
+    justify-content: center;
+    padding-top: 300px;
+}
+.parent {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    border: 5px solid #817f9c;
+}
+.child1 img {
+    height: 150px;
+    width: 100%;
+    border: 5px solid #817f9c;
+}
+.child2 img {
+    height: 100px;
+    width: 100%;
+    border: 5px solid #817f9c;
+}
+.child3 img {
+    height: 150px;
+    width: 100%;
+    border: 5px solid #817f9c;
+}
+.child4 img {
+    height: 150px;
+    width: 100%;
+    border: 5px solid #817f9c;
+}
+.child5 img {
+    height: 100px;
+    width: 100%;
+    border: 5px solid #817f9c;
+}
+.child6 img {
+    height: 150px;
+    width: 100%;
+    border: 5px solid #817f9c;
+}
